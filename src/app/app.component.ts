@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'brasses';
+  title = 'Tour of Brasses';
+  description = 'Following Tour of Heroes tutorial: a guide to understand the conceptual basis of Angular';
+  justification = 'but with brasses, because I like them';
 }
